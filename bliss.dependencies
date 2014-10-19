@@ -13,7 +13,7 @@
   },
   {
     "remote": "github",  
-    "repository": "cj360/kernel_motorola_msm8960dt-common",
+    "repository": "nprevette420/msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
 	"revision": "kitkat-staging"
   }
